@@ -271,7 +271,7 @@ const Index = () => {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Button variant="hero" size="lg" asChild>
-              <a href="tel:+919876543210">
+              <a href="tel:+916303653794">
                 <Phone className="h-5 w-5" /> Call +91 63036 53794
               </a>
             </Button>
