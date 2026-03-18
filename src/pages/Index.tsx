@@ -130,10 +130,14 @@ const Index = () => {
                   </a>
                 </Button>
                 <Button variant="heroOutline" size="lg" asChild>
-                  <a href="https://wa.me/916303653794" target="_blank" rel="noopener noreferrer">
-                    <MessageCircle className="h-5 w-5" /> WhatsApp Now
-                  </a>
-                </Button>
+  <a 
+    href="https://wa.me/916303653794?text=Hello%20Ravinder%20Plumbing%20Services,%20I%20need%20help%20with%20plumbing%20work."
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    <MessageCircle className="h-5 w-5" /> WhatsApp Now
+  </a>
+</Button>
                 <Button variant="heroOutline" size="lg" asChild>
                   <Link to="/services">
                     <Calendar className="h-5 w-5" /> Book Service
