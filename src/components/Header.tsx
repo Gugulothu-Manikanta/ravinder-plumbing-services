@@ -21,7 +21,7 @@ const Header = () => {
           <span className="hidden sm:inline">📍 Miyapur, Hyderabad, India</span>
           <div className="flex items-center gap-4 mx-auto sm:mx-0">
             <a href="tel:+919876543210" className="flex items-center gap-1 hover:underline">
-              <Phone className="h-3 w-3" /> +91 98765 43210
+              <Phone className="h-3 w-3" /> +91 63036 53794
             </a>
             <span className="hidden sm:inline">|</span>
             <span className="hidden sm:inline">Available 24/7</span>
