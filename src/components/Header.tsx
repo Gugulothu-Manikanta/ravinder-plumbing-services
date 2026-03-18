@@ -20,7 +20,7 @@ const Header = () => {
         <div className="container flex items-center justify-between">
           <span className="hidden sm:inline">📍 Miyapur, Hyderabad, India</span>
           <div className="flex items-center gap-4 mx-auto sm:mx-0">
-            <a href="tel:+919876543210" className="flex items-center gap-1 hover:underline">
+            <a href="tel:+916303653794" className="flex items-center gap-1 hover:underline">
               <Phone className="h-3 w-3" /> +91 63036 53794
             </a>
             <span className="hidden sm:inline">|</span>
@@ -53,7 +53,7 @@ const Header = () => {
             </Link>
           ))}
           <Button asChild size="lg">
-            <a href="tel:+919876543210">
+            <a href="tel:+916303653794">
               <Phone className="h-4 w-4 mr-1" /> Call Now
             </a>
           </Button>
@@ -86,7 +86,7 @@ const Header = () => {
               </Link>
             ))}
             <Button asChild className="mt-2">
-              <a href="tel:+919876543210">
+              <a href="tel:+916303653794">
                 <Phone className="h-4 w-4 mr-1" /> Call Now
               </a>
             </Button>
