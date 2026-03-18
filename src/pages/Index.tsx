@@ -125,12 +125,12 @@ const Index = () => {
               </p>
               <div className="flex flex-wrap gap-3">
                 <Button variant="hero" size="lg" asChild>
-                  <a href="tel:+919876543210">
+                  <a href="tel:+916303653794">
                     <Phone className="h-5 w-5" /> Call Now
                   </a>
                 </Button>
                 <Button variant="heroOutline" size="lg" asChild>
-                  <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/916303653794" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="h-5 w-5" /> WhatsApp Now
                   </a>
                 </Button>
@@ -272,11 +272,11 @@ const Index = () => {
           <div className="flex flex-wrap justify-center gap-4">
             <Button variant="hero" size="lg" asChild>
               <a href="tel:+919876543210">
-                <Phone className="h-5 w-5" /> Call +91 98765 43210
+                <Phone className="h-5 w-5" /> Call +91 63036 53794
               </a>
             </Button>
             <Button variant="heroOutline" size="lg" asChild>
-              <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/916303653794" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="h-5 w-5" /> WhatsApp Us
               </a>
             </Button>
