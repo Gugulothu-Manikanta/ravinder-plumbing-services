@@ -133,7 +133,7 @@ const Services = () => {
                 </div>
                 <p className="text-muted-foreground leading-relaxed mb-6">{service.description}</p>
                 <Button asChild>
-                  <a href="tel:+919876543210">
+                  <a href="tel:+916303653794">
                     <Phone className="h-4 w-4" /> Call Now for Quick Service in Miyapur
                   </a>
                 </Button>
@@ -166,8 +166,8 @@ const Services = () => {
             Call Ravinder Plumbing Services now for fast, reliable plumbing solutions in Miyapur and across Hyderabad.
           </p>
           <Button variant="hero" size="lg" asChild>
-            <a href="tel:+919876543210">
-              <Phone className="h-5 w-5" /> Call +91 98765 43210
+            <a href="tel:+916303653794">
+              <Phone className="h-5 w-5" /> Call +91 63036 53794
             </a>
           </Button>
         </div>
